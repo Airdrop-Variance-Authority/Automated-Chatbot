@@ -3,6 +3,7 @@ import time
 import random
 import signal
 import sys
+import os
 from dotenv import load_dotenv
 
 load_dotenv()
